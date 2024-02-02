@@ -1,0 +1,20 @@
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\bin\Debug\frmDashboard.exe.config
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\bin\Debug\frmDashboard.exe
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\bin\Debug\frmDashboard.pdb
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.csproj.AssemblyReference.cache
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.Dashboard.resources
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.Properties.Resources.resources
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.csproj.GenerateResource.cache
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.csproj.CoreCompileInputs.cache
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.exe
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.pdb
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.frmMax.resources
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.Lotto649.resources
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.MoneyExchange.resources
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.Calculator.resources
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.TemperatureConversion.resources
+C:\Users\abcd\OneDrive\Desktop\PROJECT OBP\frmDashboard\frmDashboard\obj\Debug\frmDashboard.Ip4Validator.resources
+C:\Users\preet\OneDrive\Desktop\Projects\C#\frmDashboard\frmDashboard\obj\Debug\frmDashboard.csproj.AssemblyReference.cache
+C:\Users\preet\OneDrive\Desktop\Projects\C#\frmDashboard\frmDashboard\obj\Debug\frmDashboard.exe
+C:\Users\preet\OneDrive\Desktop\Projects\C#\frmDashboard\frmDashboard\obj\Debug\frmDashboard.pdb
