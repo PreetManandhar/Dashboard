@@ -7,6 +7,7 @@ When clicking the Exit button, the application will confirm the user's intention
 
 
 // Author: [Preet Manandhar]
+
 Form 1 - Lotto Number Generator
 This feature allows users to generate unique Lotto Max (7 + 1) or Lotto 649 (6 + 1) numbers. Generated numbers are presented in a multiline read-only TextBox and saved to "LottoNbrs.txt" with relevant information.
 Usage
