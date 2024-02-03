@@ -1,5 +1,6 @@
 # Dashboard
 Overview
+
 This C# application serves as a dashboard providing access to various form applications. Each tab leads to different functionalities, including Lotto Number Generator, Money Exchange and Temperature Conversion, Simple Calculator, and IP4 Validator. The dashboard allows for an organized and user-friendly experience.
 
 Exit Confirmation
